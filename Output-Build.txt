@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: WordpressAutomation, Configuration: Debug Any CPU ------
+1>  WordpressAutomation -> C:\Users\Paola\Documents\Visual Studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

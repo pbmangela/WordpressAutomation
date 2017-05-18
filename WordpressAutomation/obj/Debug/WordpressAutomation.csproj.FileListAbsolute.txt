@@ -1,0 +1,11 @@
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.dll
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WordpressAutomation.pdb
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.dll
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.xml
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.dll
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\obj\Debug\WordpressAutomation.pdb
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\wires-0.6.0-win.exe
+C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\WordpressAutomation\bin\Debug\geckodriver.exe

@@ -1,0 +1,20 @@
+﻿
+
+Attempting to gather dependency information for package 'Selenium.WebDriver.GeckoDriver.0.16.1' with respect to project 'WordpressAutomation', targeting '.NETFramework,Version=v4.5.2'
+Gathering dependency information took 117,56 ms
+Attempting to resolve dependencies for package 'Selenium.WebDriver.GeckoDriver.0.16.1' with DependencyBehavior 'Lowest'
+Resolving dependency information took 0 ms
+Resolving actions to install package 'Selenium.WebDriver.GeckoDriver.0.16.1'
+Resolved actions to install package 'Selenium.WebDriver.GeckoDriver.0.16.1'
+Retrieving package 'Selenium.WebDriver.GeckoDriver 0.16.1' from 'nuget.org'.
+  GET https://api.nuget.org/packages/selenium.webdriver.geckodriver.0.16.1.nupkg
+  OK https://api.nuget.org/packages/selenium.webdriver.geckodriver.0.16.1.nupkg 70ms
+Installing Selenium.WebDriver.GeckoDriver 0.16.1.
+Adding package 'Selenium.WebDriver.GeckoDriver.0.16.1' to folder 'C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\packages'
+Added package 'Selenium.WebDriver.GeckoDriver.0.16.1' to folder 'C:\Users\Paola\documents\visual studio 2017\Projects\WordpressAutomation\packages'
+Added package 'Selenium.WebDriver.GeckoDriver.0.16.1' to 'packages.config'
+Successfully installed 'Selenium.WebDriver.GeckoDriver 0.16.1' to WordpressAutomation
+Executing nuget actions took 11,93 sec
+Time Elapsed: 00:00:12.1502631
+========== Finished ==========
+
